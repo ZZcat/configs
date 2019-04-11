@@ -1,6 +1,7 @@
 #!/bin/sh
+
+# Cd to config dirrectory
 cd "$(dirname "$0")"
-mkdir test
 
 # Emacs config file
-cp ~/.emacs ./files/ 
+cp ~/.emacs.d/init.el ./files/ 
