@@ -1,0 +1,2 @@
+unbind ^S all
+bind ^S savefile main

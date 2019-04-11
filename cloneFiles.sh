@@ -5,3 +5,6 @@ cd "$(dirname "$0")"
 
 # Emacs config file
 cp ~/.emacs.d/init.el ./files/ 
+
+# Nano config file
+cp ~/.nanorc ./files/
